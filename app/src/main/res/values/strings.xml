@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LuxApp</string>
+    <string name="title_location_permission">location permission</string>
+    <string name="text_location_permission">location text</string>
+    <string name="ok">ok</string>
+
+    <string name="none_paired">non</string>
+
+
+    <string name="valueLatitude">Latitude</string>
+    <string name="Latitude">Latitude</string>
+    <string name="valueLongitude">Longitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Coordinates">Coordinates</string>
+</resources>
